@@ -7,7 +7,6 @@ The user enters the total amount of a bill, the list of participants, the list o
 
 <h2>Stack</h2>
 
-React, Typescript, SASS.
+React, Typescript, Tailwind CSS.
 
 <h2>Install</h2>
-
